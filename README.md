@@ -15,7 +15,7 @@ Third party client to render live Mozilla Hubs spaces in three.js. Add the hubs 
 ## Install
 
 ```
-$ git clone https://github.com/webaverse/dcl.git
+$ git clone https://github.com/webaverse/h.git
 $ cd dcl
 $ npm install
 $ node index
